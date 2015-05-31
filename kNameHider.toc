@@ -1,0 +1,10 @@
+## Interface: 60100
+## Title: |cffFF4500kName|cffffffffHider
+## Author: Kygo
+## Version: 0.1
+## Notes: Hides friendly player names when in raid.
+## SavedVariables: kNameHiderDB
+
+embeds.xml
+
+kNameHider.lua
